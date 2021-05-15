@@ -149,7 +149,7 @@ public class LoginActivity extends AppCompatActivity {
                     e.printStackTrace();
                 }
 
-                Intent homeIntent = new Intent(LoginActivity.this,HomeActivity.class);
+                Intent homeIntent = new Intent(LoginActivity.this,WeekDaysActivity.class);
                 startActivity(homeIntent);
                 finish();
             }

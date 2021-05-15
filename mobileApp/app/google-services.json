@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213423759272",
+    "project_id": "attendance-system-e9e86",
+    "storage_bucket": "attendance-system-e9e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213423759272:android:324fde8742f11f05f1479d",
+        "android_client_info": {
+          "package_name": "com.example.nanocodeams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213423759272-us7lbles4uom6r02596tsluhsocjqlol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7wTWsqsdG5cQVD_WOI-TrHOVJYqIhfEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213423759272-us7lbles4uom6r02596tsluhsocjqlol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
